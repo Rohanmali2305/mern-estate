@@ -17,8 +17,8 @@ const userSchema = new mongoose.Schema({
     },
     avatar: {
         type: String,
-        default: "https://tse1.mm.bing.net/th?id=OIP.qFcA88YU9jE3ULnYGWwI9QHaHw&pid=Api&P=0&h=180"
-    }
+        default: "https://www.pngall.com/wp-content/uploads/5/Profile-Transparent.png"
+    },
 }, 
     {timestamps: true });
 
